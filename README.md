@@ -1,6 +1,7 @@
-Updating in Progress
+#Updating in Progress#
+
 A blog website is the one where users can add a new blog, edit it and view other blogs published on the platform.
-Check the live Demo
+[Check the live Demo]
 Description
 Blog Application is an application where user can add a new blog, edit it, delete it as well as view other blogs and make changes in them.
 
