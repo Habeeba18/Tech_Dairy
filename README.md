@@ -13,3 +13,4 @@ Stacks Used
 - First Use of Project
 ### To understand the concept of the localstorage, how localstorage persist the data, even the tab is closed or user referesh the page.
 
+
