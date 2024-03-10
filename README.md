@@ -1,4 +1,5 @@
-# Tech Dairy - Blog page for Technology insights [live Demo]()
+# Tech Dairy - Blog page for Technology insights 
+[live Demo]()
 A blog website is the one where users can add a new blog about technolody domains , edit it and view other blogs published on the platform.
 
 ## Description
