@@ -1,5 +1,5 @@
 # Tech Dairy - Blog page for Technology insights 
-[live Demo]()
+[live Demo](https://habeeba18.github.io/Tech_Dairy/)
 A blog website is the one where users can add a new blog about technolody domains , edit it and view other blogs published on the platform.
 
 ## Description
